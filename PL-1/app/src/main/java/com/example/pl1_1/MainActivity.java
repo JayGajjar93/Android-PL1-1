@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
                 //Toast Display Message
                 Toast.makeText(getApplicationContext(),"Name Showed Below, Thank You!",Toast.LENGTH_LONG).show();
+                
             }
         });
 
