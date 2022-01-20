@@ -34,10 +34,6 @@ public class MainActivity extends AppCompatActivity {
 
                 txtanswer.setText("Pounds : " + String.valueOf(ans) +" lbs");
 
-
-
-
-
             }
         });
     }
